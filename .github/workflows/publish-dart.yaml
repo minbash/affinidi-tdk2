@@ -3,7 +3,7 @@ name: Publish Affected Dart Projects
 on:
   push:
     tags:
-      - '*dart-v*'  
+      - 'affinidi_tdk_consumer_auth_provider_dart-v3.2.1'  
 
 jobs:
   publish:
